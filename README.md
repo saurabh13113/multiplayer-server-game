@@ -21,6 +21,8 @@ An additional enhancement implemented is the ability for players to send message
 
 To ensure robust functionality, the server was tested using the `nc` tool to simulate multiple client connections and various gameplay scenarios. The server's resilience to client drops and its ability to manage multiple simultaneous matches were key aspects of the testing process.
 
+*Please note that only users with valid UOFT credentials are able to login to the server and play the game.*
+
 Overall, this project involved designing a complex, interactive networked application that required a deep understanding of Unix sockets, process control, and real-time server management, significantly enhancing my skills in systems programming and network application development.
 
 ![image](https://github.com/user-attachments/assets/165d78ab-61c8-4a85-a4a1-c9e1eb5c45b7)
